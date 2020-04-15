@@ -1,3 +1,5 @@
+# 主要パーツすぐ試せるボード 組立・取扱説明書
+
 <link href="https://raw.githubusercontent.com/bit-trade-one/RasPi-Magazine-2019-06/Upload-ready/Readme.css?token=AKHAMM4BUMGZIDDVNEQRZ426S274Y" rel="stylesheet"></link>
 
 ## 部品表・取り付け位置
