@@ -11,17 +11,17 @@
 <tr><td>D1</td><td>LED（赤）</td><td>φ3 赤</td><td></td><td><img src="img/RLED.JPG" alt="RLED"></td></tr>
 <tr><td>D2</td><td>フルカラーLED</td><td>φ5</td><td></td><td><img src="img/FLED.JPG" alt="FLED"></td></tr>
 <tr><td>SW1</td><td>タクトスイッチ</td><td></td><td></td><td></td></tr>
-<tr><td>R1</td><td>抵抗 1/4W</td><td>330Ω</td><td></td><td></td></tr>
-<tr><td>R2</td><td>抵抗 1/4W</td><td>100Ω</td><td></td><td></td></tr>
-<tr><td>R4</td><td>抵抗 1/4W</td><td>1kΩ</td><td></td><td></td></tr>
-<tr><td>R5</td><td>抵抗 1/4W</td><td>1kΩ</td><td></td><td></td></tr>
-<tr><td>R6</td><td>抵抗 1/4W</td><td>1kΩ</td><td></td><td></td></tr>
-<tr><td>R7</td><td>抵抗 1/4W</td><td>10kΩ</td><td></td><td></td></tr>
-<tr><td>R8</td><td>抵抗 1/4W</td><td>10kΩ</td><td></td><td></td></tr>
-<tr><td>R9</td><td>抵抗 1/4W</td><td>10kΩ</td><td></td><td></td></tr>
-<tr><td>R10</td><td>抵抗 1/4W</td><td>10kΩ</td><td></td><td></td></tr>
-<tr><td>R11</td><td>抵抗 1/4W</td><td>10kΩ</td><td></td><td></td></tr>
-<tr><td>R12</td><td>抵抗 1/4W</td><td>10kΩ</td><td></td><td></td></tr>
+<tr><td>R1</td><td>抵抗 1/4W</td><td>330Ω</td><td></td><td><span cc3><span cc3><span cc1><span cc01></td></tr>
+<tr><td>R2</td><td>抵抗 1/4W</td><td>100Ω</td><td></td><td><span cc1><span cc0><span cc1><span cc01></td></tr>
+<tr><td>R4</td><td>抵抗 1/4W</td><td>1kΩ</td><td></td><td rowspan = "3"><span cc1><span cc0><span cc2><span cc01></td></tr>
+<tr><td>R5</td><td>抵抗 1/4W</td><td>1kΩ</td><td></td></tr>
+<tr><td>R6</td><td>抵抗 1/4W</td><td>1kΩ</td><td></td></tr>
+<tr><td>R7</td><td>抵抗 1/4W</td><td>10kΩ</td><td></td><td rowspan = "6"><span cc1><span cc0><span cc3><span cc01></td></tr>
+<tr><td>R8</td><td>抵抗 1/4W</td><td>10kΩ</td><td></td></tr>
+<tr><td>R9</td><td>抵抗 1/4W</td><td>10kΩ</td><td></td></tr>
+<tr><td>R10</td><td>抵抗 1/4W</td><td>10kΩ</td><td></td></tr>
+<tr><td>R11</td><td>抵抗 1/4W</td><td>10kΩ</td><td></td></tr>
+<tr><td>R12</td><td>抵抗 1/4W</td><td>10kΩ</td><td></td></tr>
 <tr><td>C1</td><td>積層セラミックコンデンサ</td><td>0.1μF 50V 2.54mm</td><td></td><td></td></tr>
 <tr><td>C2</td><td>積層セラミックコンデンサ</td><td>0.1μF 50V 2.54mm</td><td></td><td></td></tr>
 <tr><td>C3</td><td>積層セラミックコンデンサ</td><td>0.1μF 50V 2.54mm</td><td></td><td></td></tr>
@@ -110,3 +110,120 @@
 ### oled_image.py
 
 ### oled_weather.py
+<style type="text/css" scoped>
+
+span[cc0] {
+	font-weight: bold;
+	background-color: black;
+	color: white;
+}
+span[cc0]:before{
+	content: "黒";
+}
+
+span[cc1] {
+	font-weight: bold;
+	background-color: brown;
+	color: white;
+}
+span[cc1]:before{
+	content: "茶";
+}
+
+span[cc2] {
+	font-weight: bold;
+	background-color: red;
+	color: white;
+}
+span[cc2]:before{
+	content: "赤";
+}
+
+span[cc3] {
+	font-weight: bold;
+	background-color: orange;
+	color: black;
+}
+span[cc3]:before{
+	content: "橙";
+}
+
+span[cc4] {
+	font-weight: bold;
+	background-color: yellow;
+	color: black;
+}
+
+span[cc4]:before{
+	content: "黄";
+}
+
+span[cc5] {
+	font-weight: bold;
+	background-color: green;
+	color: white;
+}
+span[cc5]:before{
+	content: "緑";
+}
+
+
+span[cc6] {
+	font-weight: bold;
+	background-color: blue;
+	color: white;
+}
+span[cc6]:before{
+	content: "青";
+}
+
+
+span[cc7] {
+	font-weight: bold;
+	background-color: purple;
+	color: white;
+}
+span[cc7]:before{
+	content: "紫";
+}
+
+
+span[cc8] {
+	font-weight: bold;
+	background-color: gray;
+	color: black;
+}
+span[cc8]:before{
+	content: "灰";
+}
+
+
+span[cc9] {
+	font-weight: bold;
+	background-color: white;
+	color: black;
+}
+span[cc9]:before{
+	content: "白";
+}
+
+
+span[cc01] {
+	font-weight: bold;
+	background-color: gold;
+	color: white;
+}
+span[cc01]:before{
+	content: "金";
+}
+
+span[cc001] {
+	font-weight: bold;
+	background-color: silver;
+	color: black;
+}
+span[cc001]:before{
+	content: "銀";
+}
+
+</style>
