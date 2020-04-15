@@ -1,5 +1,3 @@
-<link href="https://github.com/bit-trade-one/RasPi-Magazine-2019-06/blob/Upload-ready/Readme.css" rel="stylesheet"></link>
-
 ## 部品表・取り付け位置
 
 <table>
@@ -112,3 +110,123 @@
 ### oled_image.py
 
 ### oled_weather.py
+
+<style scoped>
+
+
+span[cc0] {
+	font-weight: bold;
+	background-color: black;
+	color: white;
+}
+span[cc0]:before{
+	content: "黒";
+}
+
+span[cc1] {
+	font-weight: bold;
+	background-color: brown;
+	color: white;
+}
+span[cc1]:before{
+	content: "茶";
+}
+
+span[cc2] {
+	font-weight: bold;
+	background-color: red;
+	color: white;
+}
+span[cc2]:before{
+	content: "赤";
+}
+
+span[cc3] {
+	font-weight: bold;
+	background-color: orange;
+	color: black;
+}
+span[cc3]:before{
+	content: "橙";
+}
+
+span[cc4] {
+	font-weight: bold;
+	background-color: yellow;
+	color: black;
+}
+
+span[cc4]:before{
+	content: "黄";
+}
+
+span[cc5] {
+	font-weight: bold;
+	background-color: green;
+	color: white;
+}
+span[cc5]:before{
+	content: "緑";
+}
+
+
+span[cc6] {
+	font-weight: bold;
+	background-color: blue;
+	color: white;
+}
+span[cc6]:before{
+	content: "青";
+}
+
+
+span[cc7] {
+	font-weight: bold;
+	background-color: purple;
+	color: white;
+}
+span[cc7]:before{
+	content: "紫";
+}
+
+
+span[cc8] {
+	font-weight: bold;
+	background-color: gray;
+	color: black;
+}
+span[cc8]:before{
+	content: "灰";
+}
+
+
+span[cc9] {
+	font-weight: bold;
+	background-color: white;
+	color: black;
+}
+span[cc9]:before{
+	content: "白";
+}
+
+
+span[cc01] {
+	font-weight: bold;
+	background-color: gold;
+	color: white;
+}
+span[cc01]:before{
+	content: "金";
+}
+
+span[cc001] {
+	font-weight: bold;
+	background-color: silver;
+	color: black;
+}
+span[cc001]:before{
+	content: "銀";
+}
+
+
+</style>
