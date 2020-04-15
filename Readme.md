@@ -1,4 +1,4 @@
-<link href="Readme.css" rel="stylesheet"></link>
+<link href="https://github.com/bit-trade-one/RasPi-Magazine-2019-06/blob/Upload-ready/Readme.css" rel="stylesheet"></link>
 
 ## 部品表・取り付け位置
 
