@@ -2,9 +2,9 @@
 
 |基板番号|パーツ名|品番等|取り付け位置|向き|
 |:-:|:-:|:-:|:-:|:-:|
-|U1|ICソケット|8ピン</td><td rowspan="2">![DIP8](img/DIP8-1.JPG)|![DIP-8Socket](img/DIP8-2.JPG)|
+|U1|ICソケット|8ピン|![DIP8](img/DIP8-1.JPG)|![DIP-8Socket](img/DIP8-2.JPG)|
 |U1|ADコンバータ|MCP3002-I/P|![DIP-8IC](img/DIP8-3.JPG)|
-|U2|ICソケット|22ピン400mil</td><td rowspan="2">![DIP22](img/DIP22-1.JPG)|![DIP-22Socket](img/DIP22-2.JPG)|
+|U2|ICソケット|22ピン400mil|![DIP22](img/DIP22-1.JPG)|![DIP-22Socket](img/DIP22-2.JPG)|
 |U2|モータドライバ|NJM2670D2|![DIP-22IC](img/DIP22-3.JPG)|
 |U3|OLEDグラフィックディスプレイ|SSD1306|||
 |Q1|MOSFET Nch 2N7000|2N7000|![TO92](img/TO92-1.JPG)|![TO92IC](img/TO92-2.JPG)|
@@ -30,7 +30,7 @@
 |JP1|ジャンパーピン 2P つまみ付き||||
 |J1|ピンフレーム 2P||||
 |J2|ピンフレーム 5P||||
-|J3|ターミナルブロック 2P 5.08mm 青||</td><td rowspan="3">![Terminal](img/Terminal.JPG)|
+|J3|ターミナルブロック 2P 5.08mm 青|||![Terminal](img/Terminal.JPG)|
 |J4|ターミナルブロック 2P 5.08mm 青||||
 |J5|ターミナルブロック 2P 5.08mm 緑||||
 |J6|ピンフレーム 6P||||
