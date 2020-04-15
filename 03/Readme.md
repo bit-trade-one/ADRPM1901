@@ -1,5 +1,9 @@
 # 03 フルカラーLED
 
+## 配線
+
+![image](led_color.png)
+
 ## led_color.py
 
 基板上のフルカラーLED"D2"が点灯します。

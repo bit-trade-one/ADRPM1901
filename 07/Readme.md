@@ -1,5 +1,9 @@
 # 07 OLEDディスプレイ
 
+## 配線
+
+![image](oled.png)
+
 ## oled_text.py
 
 OLEDにテキストを表示します。

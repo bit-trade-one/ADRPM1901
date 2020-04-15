@@ -1,4 +1,8 @@
-# 06 DCモーダ
+# 06 DCモータ
+
+## 配線
+
+![image](motor.png)
 
 ## motor_foward.py
 
