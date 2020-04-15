@@ -31,8 +31,8 @@
 <tr><td>J1</td><td>ピンフレーム 2P</td><td></td><td></td><td></td></tr>
 <tr><td>J2</td><td>ピンフレーム 5P</td><td></td><td></td><td></td></tr>
 <tr><td>J3</td><td>ターミナルブロック 2P 5.08mm 青</td><td></td><td></td><td rowspan = "3"><img src="img/Terminal.JPG" alt="Terminal"></td></tr>
-<tr><td>J4</td><td>ターミナルブロック 2P 5.08mm 青</td><td></td><td></td><td></td></tr>
-<tr><td>J5</td><td>ターミナルブロック 2P 5.08mm 緑</td><td></td><td></td><td></td></tr>
+<tr><td>J4</td><td>ターミナルブロック 2P 5.08mm 青</td><td></td><td></td></tr>
+<tr><td>J5</td><td>ターミナルブロック 2P 5.08mm 緑</td><td></td><td></td></tr>
 <tr><td>J6</td><td>ピンフレーム 6P</td><td></td><td></td><td></td></tr>
 <tr><td>J7</td><td>ピンヘッダ 4P</td><td></td><td></td><td></td></tr>
 <tr><td>J8</td><td>ピンヘッダ 3P</td><td></td><td></td><td></td></tr>
