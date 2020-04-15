@@ -1,44 +1,45 @@
 ## 部品表・取り付け位置
 
-|基板番号|パーツ名|品番等|取り付け位置|向き|
-|:-:|:-:|:-:|:-:|:-:|
-|U1|ICソケット|8ピン|![DIP8](img/DIP8-1.JPG)|![DIP-8Socket](img/DIP8-2.JPG)|
-|U1|ADコンバータ|MCP3002-I/P|![DIP-8IC](img/DIP8-3.JPG)|
-|U2|ICソケット|22ピン400mil|![DIP22](img/DIP22-1.JPG)|![DIP-22Socket](img/DIP22-2.JPG)|
-|U2|モータドライバ|NJM2670D2|![DIP-22IC](img/DIP22-3.JPG)|
-|U3|OLEDグラフィックディスプレイ|SSD1306|||
-|Q1|MOSFET Nch 2N7000|2N7000|![TO92](img/TO92-1.JPG)|![TO92IC](img/TO92-2.JPG)|
-|D1|LED（赤）|φ3 赤||![RLED](img/RLED.JPG)|
-|D2|フルカラーLED|φ5||![FLED](img/FLED.JPG)|
-|SW1|タクトスイッチ||||
-|R1|抵抗 1/4W|330Ω|||
-|R2|抵抗 1/4W|100Ω|||
-|R4|抵抗 1/4W|1kΩ|||
-|R5|抵抗 1/4W|1kΩ|||
-|R6|抵抗 1/4W|1kΩ|||
-|R7|抵抗 1/4W|10kΩ|||
-|R8|抵抗 1/4W|10kΩ|||
-|R9|抵抗 1/4W|10kΩ|||
-|R10|抵抗 1/4W|10kΩ|||
-|R11|抵抗 1/4W|10kΩ|||
-|R12|抵抗 1/4W|10kΩ|||
-|C1|積層セラミックコンデンサ|0.1μF 50V 2.54mm|||
-|C2|積層セラミックコンデンサ|0.1μF 50V 2.54mm|||
-|C3|積層セラミックコンデンサ|0.1μF 50V 2.54mm|||
-|C4|積層セラミックコンデンサ|0.1μF 50V 2.54mm|||
-|JP1|ピンヘッダ 3P||||
-|JP1|ジャンパーピン 2P つまみ付き||||
-|J1|ピンフレーム 2P||||
-|J2|ピンフレーム 5P||||
-|J3|ターミナルブロック 2P 5.08mm 青|||![Terminal](img/Terminal.JPG)|
-|J4|ターミナルブロック 2P 5.08mm 青||||
-|J5|ターミナルブロック 2P 5.08mm 緑||||
-|J6|ピンフレーム 6P||||
-|J7|ピンヘッダ 4P||||
-|J8|ピンヘッダ 3P||||
-|J9|ピンヘッダ 9P||||
-|J10|ピンヘッダ 4P||||
-|J11|ピンフレーム 20×2P||||
+<table>
+<tr><td>基板番号</td><td>パーツ名</td><td>品番等</td><td>取り付け位置</td><td>向き</td></tr>
+<tr><td>U1</td><td>ICソケット</td><td>8ピン</td><td><img src="img/DIP8-1.JPG" alt="DIP8"></td><td rowspan = "2"><img src="img/DIP8-2.JPG" alt="DIP-8Socket"></td></tr>
+<tr><td>U1</td><td>ADコンバータ</td><td>MCP3002-I/P</td><td><img src="img/DIP8-3.JPG" alt="DIP-8IC"></td></tr>
+<tr><td>U2</td><td>ICソケット</td><td>22ピン400mil</td><td><img src="img/DIP22-1.JPG" alt="DIP22"></td><td rowspan = "2"><img src="img/DIP22-2.JPG" alt="DIP-22Socket"></td></tr>
+<tr><td>U2</td><td>モータドライバ</td><td>NJM2670D2</td><td><img src="img/DIP22-3.JPG" alt="DIP-22IC"></td></tr>
+<tr><td>U3</td><td>OLEDグラフィックディスプレイ</td><td>SSD1306</td><td></td><td></td></tr>
+<tr><td>Q1</td><td>MOSFET Nch 2N7000</td><td>2N7000</td><td><img src="img/TO92-1.JPG" alt="TO92"></td><td><img src="img/TO92-2.JPG" alt="TO92IC"></td></tr>
+<tr><td>D1</td><td>LED（赤）</td><td>φ3 赤</td><td></td><td><img src="img/RLED.JPG" alt="RLED"></td></tr>
+<tr><td>D2</td><td>フルカラーLED</td><td>φ5</td><td></td><td><img src="img/FLED.JPG" alt="FLED"></td></tr>
+<tr><td>SW1</td><td>タクトスイッチ</td><td></td><td></td><td></td></tr>
+<tr><td>R1</td><td>抵抗 1/4W</td><td>330Ω</td><td></td><td></td></tr>
+<tr><td>R2</td><td>抵抗 1/4W</td><td>100Ω</td><td></td><td></td></tr>
+<tr><td>R4</td><td>抵抗 1/4W</td><td>1kΩ</td><td></td><td></td></tr>
+<tr><td>R5</td><td>抵抗 1/4W</td><td>1kΩ</td><td></td><td></td></tr>
+<tr><td>R6</td><td>抵抗 1/4W</td><td>1kΩ</td><td></td><td></td></tr>
+<tr><td>R7</td><td>抵抗 1/4W</td><td>10kΩ</td><td></td><td></td></tr>
+<tr><td>R8</td><td>抵抗 1/4W</td><td>10kΩ</td><td></td><td></td></tr>
+<tr><td>R9</td><td>抵抗 1/4W</td><td>10kΩ</td><td></td><td></td></tr>
+<tr><td>R10</td><td>抵抗 1/4W</td><td>10kΩ</td><td></td><td></td></tr>
+<tr><td>R11</td><td>抵抗 1/4W</td><td>10kΩ</td><td></td><td></td></tr>
+<tr><td>R12</td><td>抵抗 1/4W</td><td>10kΩ</td><td></td><td></td></tr>
+<tr><td>C1</td><td>積層セラミックコンデンサ</td><td>0.1μF 50V 2.54mm</td><td></td><td></td></tr>
+<tr><td>C2</td><td>積層セラミックコンデンサ</td><td>0.1μF 50V 2.54mm</td><td></td><td></td></tr>
+<tr><td>C3</td><td>積層セラミックコンデンサ</td><td>0.1μF 50V 2.54mm</td><td></td><td></td></tr>
+<tr><td>C4</td><td>積層セラミックコンデンサ</td><td>0.1μF 50V 2.54mm</td><td></td><td></td></tr>
+<tr><td>JP1</td><td>ピンヘッダ 3P</td><td></td><td></td><td></td></tr>
+<tr><td>JP1</td><td>ジャンパーピン 2P つまみ付き</td><td></td><td></td><td></td></tr>
+<tr><td>J1</td><td>ピンフレーム 2P</td><td></td><td></td><td></td></tr>
+<tr><td>J2</td><td>ピンフレーム 5P</td><td></td><td></td><td></td></tr>
+<tr><td>J3</td><td>ターミナルブロック 2P 5.08mm 青</td><td></td><td></td><td rowspan = "3"><img src="img/Terminal.JPG" alt="Terminal"></td></tr>
+<tr><td>J4</td><td>ターミナルブロック 2P 5.08mm 青</td><td></td><td></td><td></td></tr>
+<tr><td>J5</td><td>ターミナルブロック 2P 5.08mm 緑</td><td></td><td></td><td></td></tr>
+<tr><td>J6</td><td>ピンフレーム 6P</td><td></td><td></td><td></td></tr>
+<tr><td>J7</td><td>ピンヘッダ 4P</td><td></td><td></td><td></td></tr>
+<tr><td>J8</td><td>ピンヘッダ 3P</td><td></td><td></td><td></td></tr>
+<tr><td>J9</td><td>ピンヘッダ 9P</td><td></td><td></td><td></td></tr>
+<tr><td>J10</td><td>ピンヘッダ 4P</td><td></td><td></td><td></td></tr>
+<tr><td>J11</td><td>ピンフレーム 20×2P</td><td></td><td></td><td></td></tr>
+</table>
 
 ## 初回セットアップ
 
