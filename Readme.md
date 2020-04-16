@@ -13,12 +13,12 @@
 <tr><td>D1</td><td>LED（赤）</td><td>φ3 赤</td><td></td><td><img src="img/RLED.JPG" alt="RLED"></td></tr>
 <tr><td>D2</td><td>フルカラーLED</td><td>φ5</td><td></td><td><img src="img/FLED.JPG" alt="FLED"></td></tr>
 <tr><td>SW1</td><td>タクトスイッチ</td><td></td><td></td><td></td></tr>
-<tr><td>R1</td><td>抵抗 1/4W</td><td>330Ω</td><td></td><td><span cc3><span cc3><span cc1><span cc01></td></tr>
-<tr><td>R2</td><td>抵抗 1/4W</td><td>100Ω</td><td></td><td><span cc1><span cc0><span cc1><span cc01></td></tr>
-<tr><td>R4</td><td>抵抗 1/4W</td><td>1kΩ</td><td></td><td rowspan = "3"><span cc1><span cc0><span cc2><span cc01></td></tr>
+<tr><td>R1</td><td>抵抗 1/4W</td><td>330Ω</td><td></td><td><b><span style="background-color:orange; color:white">橙</span><span style="background-color:orange; color:white">橙</span><span style="background-color:brown; color:white">茶</span><span style="background-color:gold; color:black">金</span></b></td></tr>
+<tr><td>R2</td><td>抵抗 1/4W</td><td>100Ω</td><td></td><td><b><span style="background-color:brown; color:white">茶</span><span style="background-color:black; color:white">黒</span><span style="background-color:brown; color:white">茶</span><span style="background-color:gold; color:black">金</span></b></td></tr>
+<tr><td>R4</td><td>抵抗 1/4W</td><td>1kΩ</td><td></td><td rowspan = "3"><b><span style="background-color:brown; color:white">茶</span><span style="background-color:black; color:white">黒</span><span style="background-color:red; color:white">赤</span><span style="background-color:gold; color:black">金</span></b></td></tr>
 <tr><td>R5</td><td>抵抗 1/4W</td><td>1kΩ</td><td></td></tr>
 <tr><td>R6</td><td>抵抗 1/4W</td><td>1kΩ</td><td></td></tr>
-<tr><td>R7</td><td>抵抗 1/4W</td><td>10kΩ</td><td></td><td rowspan = "6"><span cc1><span cc0><span cc3><span cc01></td></tr>
+<tr><td>R7</td><td>抵抗 1/4W</td><td>10kΩ</td><td></td><td rowspan = "6"><b><span style="background-color:brown; color:white">茶</span><span style="background-color:black; color:white">黒</span><span style="background-color:orange; color:white">橙</span><span style="background-color:gold; color:black">金</span></b></td></tr>
 <tr><td>R8</td><td>抵抗 1/4W</td><td>10kΩ</td><td></td></tr>
 <tr><td>R9</td><td>抵抗 1/4W</td><td>10kΩ</td><td></td></tr>
 <tr><td>R10</td><td>抵抗 1/4W</td><td>10kΩ</td><td></td></tr>
