@@ -4,21 +4,21 @@
 
 <table>
 <tr><td>基板番号</td><td>パーツ名</td><td>品番等</td><td>取り付け位置</td><td>向き</td></tr>
-<tr><td>U1</td><td>ICソケット</td><td>8ピン</td><td><img src="img/DIP8-1.JPG" alt="DIP8"></td><td rowspan = "2"><img src="img/DIP8-2.JPG" alt="DIP-8Socket"></td></tr>
-<tr><td>U1</td><td>ADコンバータ</td><td>MCP3002-I/P</td><td><img src="img/DIP8-3.JPG" alt="DIP-8IC"></td></tr>
-<tr><td>U2</td><td>ICソケット</td><td>22ピン400mil</td><td><img src="img/DIP22-1.JPG" alt="DIP22"></td><td rowspan = "2"><img src="img/DIP22-2.JPG" alt="DIP-22Socket"></td></tr>
-<tr><td>U2</td><td>モータドライバ</td><td>NJM2670D2</td><td><img src="img/DIP22-3.JPG" alt="DIP-22IC"></td></tr>
+<tr><td>U1</td><td>ICソケット</td><td>8ピン</td><td><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/DIP8-1.jpg" alt="DIP8"></td><td rowspan = "2"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/DIP8-2.jpg" alt="DIP-8Socket"></td></tr>
+<tr><td>U1</td><td>ADコンバータ</td><td>MCP3002-I/P</td><td><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/DIP8-3.jpg" alt="DIP-8IC"></td></tr>
+<tr><td>U2</td><td>ICソケット</td><td>22ピン400mil</td><td><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/DIP22-1.jpg" alt="DIP22"></td><td rowspan = "2"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/DIP22-2.jpg" alt="DIP-22Socket"></td></tr>
+<tr><td>U2</td><td>モータドライバ</td><td>NJM2670D2</td><td><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/DIP22-3.jpg" alt="DIP-22IC"></td></tr>
 <tr><td>U3</td><td>OLEDグラフィックディスプレイ</td><td>SSD1306</td><td></td><td></td></tr>
-<tr><td>Q1</td><td>MOSFET Nch 2N7000</td><td>2N7000</td><td><img src="img/TO92-1.JPG" alt="TO92"></td><td><img src="img/TO92-2.JPG" alt="TO92IC"></td></tr>
-<tr><td>D1</td><td>LED（赤）</td><td>φ3 赤</td><td></td><td><img src="img/RLED.JPG" alt="RLED"></td></tr>
-<tr><td>D2</td><td>フルカラーLED</td><td>φ5</td><td></td><td><img src="img/FLED.JPG" alt="FLED"></td></tr>
+<tr><td>Q1</td><td>MOSFET Nch 2N7000</td><td>2N7000</td><td><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/TO92-1.jpg" alt="TO92"></td><td><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/TO92-2.jpg" alt="TO92IC"></td></tr>
+<tr><td>D1</td><td>LED（赤）</td><td>φ3 赤</td><td></td><td><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/RLED.jpg" alt="RLED"></td></tr>
+<tr><td>D2</td><td>フルカラーLED</td><td>φ5</td><td></td><td><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/FLED.jpg" alt="FLED"></td></tr>
 <tr><td>SW1</td><td>タクトスイッチ</td><td></td><td></td><td></td></tr>
-<tr><td>R1</td><td>抵抗 1/4W</td><td>330Ω</td><td></td><td><img src="img/R330.JPG" alt="R330"></td></tr>
-<tr><td>R2</td><td>抵抗 1/4W</td><td>100Ω</td><td></td><td><img src="img/R100.JPG" alt="R100"></td></tr>
-<tr><td>R4</td><td>抵抗 1/4W</td><td>1kΩ</td><td></td><td rowspan = "3"><img src="img/R1k.JPG" alt="R1k"></td></tr>
+<tr><td>R1</td><td>抵抗 1/4W</td><td>330Ω</td><td></td><td><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/R330.jpg" alt="R330"></td></tr>
+<tr><td>R2</td><td>抵抗 1/4W</td><td>100Ω</td><td></td><td><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/R100.jpg" alt="R100"></td></tr>
+<tr><td>R4</td><td>抵抗 1/4W</td><td>1kΩ</td><td></td><td rowspan = "3"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/R1k.jpg" alt="R1k"></td></tr>
 <tr><td>R5</td><td>抵抗 1/4W</td><td>1kΩ</td><td></td></tr>
 <tr><td>R6</td><td>抵抗 1/4W</td><td>1kΩ</td><td></td></tr>
-<tr><td>R7</td><td>抵抗 1/4W</td><td>10kΩ</td><td></td><td rowspan = "6"><img src="img/R10k.JPG" alt="R10k"></td></tr>
+<tr><td>R7</td><td>抵抗 1/4W</td><td>10kΩ</td><td></td><td rowspan = "6"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/R10k.jpg" alt="R10k"></td></tr>
 <tr><td>R8</td><td>抵抗 1/4W</td><td>10kΩ</td><td></td></tr>
 <tr><td>R9</td><td>抵抗 1/4W</td><td>10kΩ</td><td></td></tr>
 <tr><td>R10</td><td>抵抗 1/4W</td><td>10kΩ</td><td></td></tr>
@@ -32,7 +32,7 @@
 <tr><td>JP1</td><td>ジャンパーピン 2P つまみ付き</td><td></td><td></td><td></td></tr>
 <tr><td>J1</td><td>ピンフレーム 2P</td><td></td><td></td><td></td></tr>
 <tr><td>J2</td><td>ピンフレーム 5P</td><td></td><td></td><td></td></tr>
-<tr><td>J3</td><td>ターミナルブロック 2P 5.08mm 青</td><td></td><td></td><td rowspan = "3"><img src="img/Terminal.JPG" alt="Terminal"></td></tr>
+<tr><td>J3</td><td>ターミナルブロック 2P 5.08mm 青</td><td></td><td></td><td rowspan = "3"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/Terminal.jpg" alt="Terminal"></td></tr>
 <tr><td>J4</td><td>ターミナルブロック 2P 5.08mm 青</td><td></td><td></td></tr>
 <tr><td>J5</td><td>ターミナルブロック 2P 5.08mm 緑</td><td></td><td></td></tr>
 <tr><td>J6</td><td>ピンフレーム 6P</td><td></td><td></td><td></td></tr>
@@ -47,8 +47,8 @@
 
 ### I2C/SPI有効化
 
-![setting1](img/setting1.PNG)
-![setting2](img/setting2.PNG)
+![setting1](https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/setting1.png)
+![setting2](https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/setting2.png)
 
 ### pigpio有効化
 
