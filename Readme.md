@@ -4,9 +4,9 @@
 
 <table>
 <tr><td>基板番号</td><td>パーツ名</td><td>品番等</td><td>取り付け位置</td><td>向き</td></tr>
-<tr><td>U1</td><td>ICソケット</td><td>8ピン</td><td><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/DIP8-1.jpg" alt="DIP8"></td><td rowspan = "2"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/DIP8-2.jpg" alt="DIP-8Socket"></td></tr>
+<tr><td>U1</td><td>ICソケット</td><td>8ピン</td><td rowspan = "2"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/DIP8-1.jpg" alt="DIP8"></td><td><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/DIP8-2.jpg" alt="DIP-8Socket"></td></tr>
 <tr><td>U1</td><td>ADコンバータ</td><td>MCP3002-I/P</td><td><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/DIP8-3.jpg" alt="DIP-8IC"></td></tr>
-<tr><td>U2</td><td>ICソケット</td><td>22ピン400mil</td><td><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/DIP22-1.jpg" alt="DIP22"></td><td rowspan = "2"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/DIP22-2.jpg" alt="DIP-22Socket"></td></tr>
+<tr><td>U2</td><td>ICソケット</td><td>22ピン400mil</td><td rowspan = "2"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/DIP22-1.jpg" alt="DIP22"></td><td><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/DIP22-2.jpg" alt="DIP-22Socket"></td></tr>
 <tr><td>U2</td><td>モータドライバ</td><td>NJM2670D2</td><td><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/DIP22-3.jpg" alt="DIP-22IC"></td></tr>
 <tr><td>U3</td><td>OLEDグラフィックディスプレイ</td><td>SSD1306</td><td></td><td></td></tr>
 <tr><td>Q1</td><td>MOSFET Nch 2N7000</td><td>2N7000</td><td><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/TO92-1.jpg" alt="TO92"></td><td><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/TO92-2.jpg" alt="TO92IC"></td></tr>
