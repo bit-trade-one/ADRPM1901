@@ -2,7 +2,7 @@
 
 ## 配線
 
-![image](weather.png)
+![image](https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/weather)
 
 ## weather.py
 

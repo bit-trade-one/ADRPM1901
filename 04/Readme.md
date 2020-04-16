@@ -2,7 +2,7 @@
 
 ## 配線
 
-![image](sw.png)
+![image](https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/sw)
 
 ## sw_read.py
 

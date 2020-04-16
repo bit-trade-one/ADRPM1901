@@ -2,7 +2,7 @@
 
 ## 配線
 
-![image](motor.png)
+![image](https://bit-trade-one.co.jp/wp/wp-content/uploads/2020/04/motor)
 
 ## motor_foward.py
 
