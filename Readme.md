@@ -52,21 +52,29 @@
 
 ### pigpio有効化
 
-```$ sudo systemctl enable pigpiod```  
-```$ sudo systemctl start pigpiod```  
+```
+$ sudo systemctl enable pigpiod
+$ sudo systemctl start pigpiod
+```
 
 ### OLED用ライブラリ・フォントインストール
 
-```$ sudo apt install fonts-takao```  
-```$ wget https://github.com/adafruit/Adafruit_Python_SSD1306/archive/master.zip```  
-```$ unzip master.zip```  
-```$ sudo python3 master.zip/setup.py install```  
+```
+$ sudo apt install fonts-takao
+$ wget https://github.com/adafruit/Adafruit_Python_SSD1306/archive/master.zip
+$ unzip master.zip
+$ sudo python3 master.zip/setup.py install
+```  
 
 ### サンプルプログラムダウンロード
 
-```$ wget サンプルプログラムのURL```  
-```$ unzip サンプルプログラムのzip```  
+```
+$ wget サンプルプログラムのURL
+$ unzip サンプルプログラムのzip
+```  
 
 ### GPIO初期化
-```$ cd toku01```  
-```$ sudo python3 00/init_board.py```  
+```
+$ cd toku01
+$ sudo python3 00/init_board.py
+```  
