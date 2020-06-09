@@ -69,15 +69,15 @@ $ sudo python3 setup.py install
 ### サンプルプログラムダウンロード
 
 ```
-$ wget サンプルプログラムのURL
-$ unzip サンプルプログラムのzip
+$ git clone https://github.com/bit-trade-one/ADRPM1901.git
 ```  
 ※本プログラムはラズパイマガジン読者限定サイトで公開していたファイルです。  
 リニューアルに伴い弊社サイト上でも公開を致します。  
 プログラムの内容などについてサポートは出来かねますことをご了承ください。  
 
 ### GPIO初期化
+
 ```
-$ cd toku01
+$ cd ADRPM1901
 $ sudo python3 00/init_board.py
 ```  
