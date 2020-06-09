@@ -61,9 +61,8 @@ $ sudo systemctl start pigpiod
 
 ```
 $ sudo apt install fonts-takao
-$ wget https://github.com/adafruit/Adafruit_Python_SSD1306/archive/master.zip
-$ unzip master.zip
-$ cd Adafruit_Python_SSD1306-master
+$ git clone https://github.com/adafruit/Adafruit_Python_SSD1306.git
+$ cd Adafruit_Python_SSD1306
 $ sudo python3 setup.py install
 ```  
 
